@@ -1,7 +1,7 @@
-# Funcionalidades implementadas
->- Cadastro, Atualização, Cancelamento, e Consulta de Projetos de Freelance(individuais ou lista)
->- Cadastro e Login de Usuário e de perfis Freelancer e Cliente
->- Adicionar comentários para um serviço de Freelancer 
->- Definir, Iniciar e finalizar projeto
+# Features that will be implemented
+>- Registration, Update, Cancellation, and Consultation of Freelance Projects (individual or list)
+>- Registration and Login of User and Freelancer and Client profiles
+>- Add comments to a Freelancer service 
+>- Define, Start and Finish Project
 
 
