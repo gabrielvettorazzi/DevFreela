@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FreelaDev")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+650ba782a518c0fd4891faca1ac6bb88e849492c")]
 [assembly: System.Reflection.AssemblyProductAttribute("FreelaDev")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FreelaDev")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
